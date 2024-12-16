@@ -1,0 +1,51 @@
+{
+    "1": {
+        "code": "LATEST_1",
+        "title": "2023 Best Beaches Contest Winners"
+    },
+    "2": {
+        "code": "LATEST_2",
+        "title": "Top 10 Diving Spots"
+    },
+    "3": {
+        "code": "LATEST_3",
+        "title": "Fishing ban to be implemented this year"
+    },
+    "4": {
+        "code": "LATEST_4",
+        "title": "Lifeguard saves child from drowning"
+    },
+    "5": {
+        "code": "TIPS_1",
+        "title": "What to bring on the beach?"
+    },
+    "6": {
+        "code": "TIPS_2",
+        "title": "Planning Fun Activities"
+    },
+    "7": {
+        "code": "TIPS_3",
+        "title": "Diving Checklist"
+    },
+    "8": {
+        "code": "TIPS_4",
+        "title": "First Aid"
+    },
+    "9": {
+        "code": "TIPS_5",
+        "title": "How to Build a Sand Castle?"
+    },
+    "10": {
+        "code": "TIPS_6",
+        "title": "Tanning Tips"
+    },
+    "11": {
+        "code": "FEATURED_1",
+        "title": "Experience Kayaking!",
+        "author": "Juan De La Cruz",
+        "publishDate": "April 03, 2023",
+        "image": "/kayak.jpg",
+        "alt": "Img",
+        "content": "<p> Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis. Sed consequat libero ut turpis venenatis ut aliquam risus semper. Etiam convallis mi vel risus pretium sodales. Etiam nunc lorem, ullamcorper vitae laoreet id, rutrum et tortor. Vivamus luctus, lacus id egestas facilisis, nunc nunc ultricies lorem, vitae pulvinar nibh urna vel velit. </p> <p> Cras dui sapien, feugiat vitae tristique ut, lobortis tempor orci. Donec pulvinar sagittis metus ut tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Nulla at nunc sit amet justo cursus imperdiet. Mauris est leo, placerat nec eleifend eu, facilisis id dolor. Donec nisi nibh, elementum vitae imperdiet non, placerat et felis. Maecenas scelerisque odio quis arcu fringilla malesuada. Nulla facilisi. In libero nulla, fermentum ut pretium ac, pharetra et eros. </p> <p> Phasellus viverra fringilla lacus, malesuada blandit velit iaculis dignissim. Suspendisse rutrum massa mauris. Donec quis tempus elit.Integer magna leo, posuere et dignissim vitae, porttitor at odio. Pellentesque a metus nec magna placerat volutpat. </p>"
+    }
+}

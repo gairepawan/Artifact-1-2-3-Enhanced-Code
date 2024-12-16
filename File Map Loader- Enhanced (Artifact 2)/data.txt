@@ -1,0 +1,38 @@
+121,George Adams,   Marketing,   PR Coordinator
+120,Amy Scott,   Finance,   Tax Specialist
+119,Kevin Lopez,   Sales,   Sales Consultant
+125,William Parker,   Sales,   Key Account Manager
+137,Joseph Bell,   Sales,   Sales Operations Analyst
+102,Jane Smith,   Sales,   Account Manager
+108,Linda Garcia,   Sales,   Regional Sales Manager
+107,Robert Martinez,   Engineering,   Data Scientist
+106,Patricia Wilson,   Customer Support,   Support Lead
+113,Daniel Walker,   Engineering,   Systems Administrator
+109,David Rodriguez,   Marketing,   Content Strategist
+129,Thomas Stewart,   Finance,   Investment Analyst
+136,Patricia Howard,   Finance,   Internal Auditor
+127,Charles Edwards,   Engineering,   AI Researcher
+115,Paul Allen,   Marketing,   SEO Specialist
+110,Elizabeth Hernandez,   Human Resources,   Recruiter
+126,Barbara Evans,   Marketing,   Event Coordinator
+114,Sarah Hall,   Sales,   Sales Representative
+105,Chris Davis,   Finance,   Financial Analyst
+124,Jessica Campbell,   Customer Support,   Technical Support
+135,Christopher Foster,   Engineering,   Embedded Systems Engineer
+122,Nancy Turner,   Human Resources,   HR Manager
+132,Karen Mitchell,   Marketing,   Brand Strategist
+111,James Clark,   Finance,   Accountant
+131,Edward Green,   Engineering,   Frontend Developer
+134,Deborah Simmons,   Customer Support,   Helpdesk Analyst
+128,Jennifer Collins,   Customer Support,   Call Center Agent
+116,Laura Young,   Human Resources,   Training Manager
+118,Emily Wright,   Customer Support,   Customer Success Manager
+130,Rebecca Morris,   Sales,   Sales Executive
+112,Mary Lewis,   Customer Support,   Support Specialist
+139,Michael Rivera,   Human Resources,   HR Coordinator
+103,Michael Johnson,   Human Resources,   HR Specialist
+138,Linda Ward,   Marketing,   Graphic Designer
+101,John Doe,   Engineering,   Software Engineer
+104,Susan Brown,   Marketing,   Digital Marketing Manager
+117,Mark King,   Engineering,   DevOps Engineer
+123,Brian Phillips,   Engineering,   Backend Developer
